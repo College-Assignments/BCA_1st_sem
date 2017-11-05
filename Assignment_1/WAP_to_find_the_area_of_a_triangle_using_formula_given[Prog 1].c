@@ -15,3 +15,5 @@ int main(){
   printf("Area of triangle is %f ", area);
   return 0;
 }
+
+// run it online here https://repl.it/NmKv/2
